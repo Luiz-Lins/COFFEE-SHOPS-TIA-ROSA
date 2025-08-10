@@ -6,7 +6,7 @@ o cadastro de produtos com categoria e preço, o registro de pedidos de clientes
 detalhado de todos os pedidos com seus respectivos totais.
 
 O projeto foi desenvolvido com uma arquitetura orientada a objetos, utilizando **classes** e **funções** para manter 
-o código organizado, modular e fácil de entender.
+o código organizado e de fácil de entendimento.
 
 ---
 
